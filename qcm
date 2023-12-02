@@ -1,0 +1,238 @@
+1. (B) Application, Transport, Réseau
+
+La couche application fournit des services aux applications qui utilisent le réseau. La couche transport fournit une connexion fiable entre les applications. La couche réseau fournit un routage des paquets vers la destination.
+
+2. (A)
+
+L’administrateur doit entrer la commande enable pour passer en mode d’exécution privilégié avant d’exécuter la commande configure terminal.
+
+3. (B,C)
+
+Le protocole IP est un protocole sans connexion. Il ne garantit pas la remise des paquets. Il peut fragmenter les paquets si nécessaire pour les adapter au support de transmission.
+
+4. (A,B)
+
+La commande show ip route affiche la table de routage du routeur. La commande show ip interface brief affiche un résumé des interfaces du routeur, notamment leur état et leur adresse IP.
+
+5. (D)
+
+Le fichier de configuration en cours est stocké dans la mémoire vive. Il est perdu lorsque le routeur est redémarré.
+
+6. (A)
+
+Le connecteur RJ-45 est utilisé avec le câblage à paires torsadées.
+
+7. (A)
+
+L’enveloppe métallique protège les données des perturbations électromagnétiques.
+
+8. (C)
+
+Le protocole DNS traduit les noms de domaine en adresses IP.
+
+9. (A,B)
+
+La couche réseau fournit un routage des paquets vers la destination. La couche transport fournit une connexion fiable entre les applications.
+
+10. (C)
+
+La couche liaison de données fournit la mise en forme des données et le contrôle d’accès au média.
+
+11. (C)
+
+La commande ping est utilisée pour vérifier la connectivité entre deux hôtes.
+
+12. (A,B)
+
+Les protocoles TCP et UDP utilisent tous deux la numérotation des ports. Les deux protocoles peuvent être utilisés pour établir une communication bidirectionnelle entre deux hôtes.
+
+13. (D)
+
+Le protocole DHCP attribue dynamiquement des adresses IP aux périphériques terminaux et intermédiaires.
+
+14. (A)
+
+La couche de liaison de données est responsable de la mise en forme des données et du contrôle d’accès au média. Elle est responsable de la segmentation des données en trames et de l’ajout de l’en-tête de trame, qui contient l’adresse MAC de destination.
+
+15. (A)
+
+L’adresse MAC de l’hôte de destination est ajoutée à l’en-tête de trame lors de l’encapsulation des données.
+
+16. (A,B,E)
+
+Les interfaces physiques 1 et 2 sont connectées à d’autres réseaux. L’interface SVI est une interface virtuelle qui est utilisée pour le routage inter-VLAN.
+
+17. (C)
+
+Le numéro de port de destination de 21 est associé au service FTP.
+
+18. (C)
+
+Le numéro de port de destination de 80 est associé au service HTTP.
+
+19. (C)
+
+Le numéro de port de destination de 67 est associé au service DHCP.
+
+20. (D)
+
+Le protocole ARP est utilisé pour traduire les adresses IP en adresses MAC. L’en-tête de trame contient l’adresse MAC de destination. La table ARP contient la correspondance entre les adresses IP et les adresses MAC.
+
+21. (D)
+
+Le protocole HTTP est utilisé pour transférer des données textuelles, graphiques, sonores et vidéo sur le Web.
+
+22. (B)
+
+Après avoir trouvé une correspondance entre l’adresse IP de destination et un réseau directement connecté, le routeur bascule le paquet vers l’interface directement connectée.
+
+23. (A,B)
+
+Les logiciels antivirus et les systèmes de prévention des intrusions sont deux solutions de sécurité couramment utilisées dans les environnements d’entreprise.
+
+24. (A)
+
+Les logiciels antivirus sont utilisés pour protéger les terminaux contre l’infection par des logiciels malveillants.
+
+25. (C)
+
+Le protocole FTP est utilisé pour transférer des fichiers entre un client et un serveur de fichiers.
+
+26. (C)
+
+Un VPN est un réseau privé virtuel qui permet aux utilisateurs de se connecter à un réseau privé à partir d’un emplacement distant.
+
+
+27. C
+
+La couche réseau du modèle TCP/IP fournit un routage des paquets vers la destination.
+
+28. D
+
+Le modèle de réseau pair à pair (P2P) permet à deux ou plusieurs périphériques d’interagir directement les uns avec les autres sans l’utilisation d’un serveur central.
+
+29. A
+
+Le service DNS est utilisé pour traduire des noms de domaine en adresses IP.
+
+30. B
+
+Le service SSH est utilisé pour fournir un accès distant sécurisé aux périphériques et serveurs réseau.
+
+31. C
+
+Le service TFTP est utilisé pour transférer des fichiers entre des périphériques réseau.
+
+32. A
+
+La commande ipconfig est utilisée pour afficher la configuration IP d’un ordinateur Windows.
+
+33. A
+
+HTTPS est un protocole de transfert hypertexte sécurisé qui utilise le cryptage pour sécuriser l’échange de texte, d’images graphiques, de sons et de vidéos sur le Web.
+
+34. C
+
+Le mauvais type de connecteur est utilisé. Le connecteur RJ-45 est utilisé pour les câbles à paires torsadées. Le connecteur utilisé dans l’illustration est un connecteur BNC, qui est utilisé pour les câbles coaxials.
+
+35. C
+
+Le fichier de configuration est absent de la NVRAM. Lors du démarrage, le routeur recherche un fichier de configuration dans la NVRAM. Si le fichier de configuration est absent, le routeur entre en mode configuration.
+
+36. A, C
+
+Les couches liaison de données et physique du modèle OSI fournissent les mêmes fonctionnalités que les couches liaison de données et transport du modèle TCP/IP.
+
+37. D
+
+La bande passante est la mesure du transfert de bits sur un support sur une période de temps donnée.
+
+38. C, D
+
+Les deux critères utilisés pour choisir un support réseau parmi les différentes options sont l’environnement dans lequel le support sera installé et la distance sur laquelle le support peut transporter correctement un signal.
+
+39. A
+
+La touche Tabulation permet de compléter un mot saisi partiellement dans une commande.
+
+40. A
+
+Les commandes enable et configure terminal permettent d’accéder au mode de configuration global. La commande interface fastethernet 0/1 configure l’interface Fast Ethernet 0/1.
+
+41. C
+
+La commande exit permet de quitter le mode de configuration et de revenir au mode EXEC privilégié.
+
+42. A, E
+
+La mémoire vive offre un stockage volatil. La configuration en cours sur l’équipement est stockée dans la mémoire vive. La mémoire vive peut être perdue lorsque l’équipement est arrêté et rallumé.
+
+43. B, C, D
+
+L’ordre correct pour accéder aux différents modes IOS d’exploitation est le suivant :
+
+Mode de démarrage IOS
+Mode d’exécution privilégié
+Mode de configuration global
+Mode de configuration spécifique
+44. C
+
+La commande show ip interface brief affiche un résumé des interfaces de commutation, y compris l’état des interfaces et une adresse IP configurée.
+
+45. A
+
+La commande copy running-config startup-config copie la configuration en cours dans la mémoire flash. La nouvelle configuration sera chargée si le commutateur redémarre.
+
+46. D
+
+La commande service password-encryption active le chiffrement des mots de passe dans les fichiers de configuration.
+
+47. D
+
+La commande service password-encryption active un algorithme de chiffrement fort pour la commande enable secret password.
+
+48. D
+
+Les données sont envoyées de la couche application à la couche transport. La couche transport ajoute un en-tête et une charge utile au message. La couche réseau ajoute un en-tête et une charge utile au message. La couche liaison de données ajoute un en-tête et une charge utile au message. La couche physique transmet le message sur le support physique.
+
+49. E
+
+Le segment est l’unité de données de protocole de la couche transport.
+
+50. B, D
+
+Les couches liaison de données et transport du modèle OSI fournissent les mêmes fonctionnalités que les couches liaison de données et transport du modèle TCP/IP.
+
+
+51.Quel périphérique permet de déterminer le chemin que les messages doivent prendre à travers les interréseaux ?
+
+Réponse : C
+
+Un routeur est un périphérique réseau qui utilise des tables de routage pour déterminer le chemin que les messages doivent prendre pour atteindre leur destination.
+
+52.Quel terme décrit un modèle informatique où les logiciels serveur s’exécutent sur des ordinateurs dédiés?
+
+Réponse : C
+
+Un modèle client/serveur est un modèle informatique dans lequel les applications sont réparties entre des clients et des serveurs. Les clients sont des ordinateurs qui utilisent les services des serveurs. Les serveurs sont des ordinateurs qui fournissent des services aux clients. Dans un modèle client/serveur, les logiciels serveur s’exécutent sur des ordinateurs dédiés.
+
+53.Les mots de passe peuvent être utilisés pour limiter l’accès à tout ou partie de Cisco IOS. Sélectionnez les modes et interfaces qui peuvent être protégés avec des mots de passe. (Choisissez trois réponses.)
+
+Réponses : A, C, E
+
+Les mots de passe peuvent être utilisés pour protéger les modes et interfaces suivants :
+
+Interface Ethernet
+Mode d’exécution privilégié
+Interface VTY
+54.En quoi SSH est-il différent de Telnet ?
+
+Réponse : C
+
+SSH et Telnet sont deux protocoles de connexion à distance. La principale différence entre les deux est que SSH est sécurisé, tandis que Telnet ne l'est pas. SSH utilise le chiffrement pour protéger les données transmises entre les deux périphériques connectés. Telnet transmet les données en clair, ce qui les rend vulnérables à la surveillance et à l'interception.
+
+55.Dans quelle couche du modèle OSI une adresse logique est-elle ajoutée pendant l’encapsulation ?
+
+Réponse : C
+
+L'adresse logique est ajoutée à la couche réseau. La couche réseau est responsable de l'acheminement des données vers leur destination. L'adresse logique est utilisée par la couche réseau pour identifier la destination des données.
